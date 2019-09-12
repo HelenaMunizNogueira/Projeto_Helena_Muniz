@@ -11,8 +11,8 @@ public class A {
 	public float getA2() {
 		return A2;
 	}
-	public void setA2(float a2) {
-		A2 = a2;
+	public void setA2(float a) {
+		A2 = a;
 	}
 	public void MA1()
 	{

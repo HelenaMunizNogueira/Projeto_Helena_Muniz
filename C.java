@@ -11,8 +11,8 @@ public class C {
 	public float getC2() {
 		return C2;
 	}
-	public void setC2(float c2) {
-		C2 = c2;
+	public void setC2(float c) {
+		C2 = c;
 	}
 	public void MC1()
 	{
